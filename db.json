@@ -1,0 +1,62 @@
+{
+  "variants": [
+    {
+      "id": 2001,
+      "image": "../assets/images/cii.jpg",
+      "quantity": 50,
+      "product": "Cinderella",
+      "href": "/cinderellaStory",
+      "inventory": 100,
+      "description": "In a world of dreams and despair, Cinderella emerges, her life a canvas painted with the cruel strokes of a stepmother's whims. Magic weaves through her story as a mysterious fairy godmother transforms rags into a dazzling gown. Amidst the enchantment of a royal ball, Cinderella's destiny unfurls, proving that courage and kindness can defy the stroke of midnight."
+    },
+    {
+      "id": 2002,
+      "image": "../assets/images/snowww.jpg",
+      "quantity": 50,
+      "product": "Snow White And The 7 Dwarfs",
+      "inventory": 100,
+      "href": "/snowWhite",
+      "description": "Dive into a world where an enchanted apple holds the key to Snow White's destiny. Escaping her jealous stepmother, she finds solace with seven endearing dwarfs. In this timeless tale of friendship and love, witness the triumph of innocence over envy as Snow White's journey unfolds. Join her in a forest of magic, where 'Heigh-Ho' echoes, and discover a classic fable where true beauty transcends appearances."
+    },
+    {
+      "id": 2003,
+      "image": "../assets/images/beauty.jpg",
+      "product": "Beauty And The Beast",
+      "quantity": 5,
+      "inventory": 1,
+      "description": "Enter a world where an enchanted rose holds the fate of a cursed prince. Belle, a bookish dreamer, discovers a transformative love beneath the Beast's monstrous exterior. In this timeless tale of acceptance and resilience, witness the enduring magic that lies within the heart of both beauty and beastliness."
+    },
+    {
+      "id": 2004,
+      "image": "../assets/images/sleepy.jpg",
+      "quantity": 0,
+      "inventory": 0,
+      "product": "Sleeping Beauty",
+      "description": "In a kingdom cloaked in enchantment, a princess falls into a deep slumber, awaiting the transformative power of true love's kiss. 'Sleeping Beauty' weaves a tale of a hundred-year curse and the timeless magic that lies within a single, destined moment."
+    },
+    {
+      "id": 2005,
+      "image": "../assets/images/little.webp",
+      "quantity": 50,
+      "inventory": 100,
+      "product": "The Little Mermaid",
+      "description": "Beneath the waves of an ocean realm, a curious mermaid dreams of a life above the sea and a love that transcends worlds. Dive into 'The Little Mermaid,' a captivating story of sacrifice, longing, and the pursuit of true happiness."
+    },
+    {
+      "id": 2000,
+      "image": "../assets/images/rap.jpg",
+      "quantity": 50,
+      "inventory": 100,
+      "product": "Rapunzel",
+      "description": "In a tower hidden deep within an enchanted forest, a girl with cascading hair dreams of the world beyond her confines. 'Rapunzel' unfolds a tale of captivity, adventure, and the transformative power of liberation in the embrace of unexpected love."
+    },
+    {
+      "id": 2007,
+      "image": "../assets/images/alic.jpg",
+      "product": "Alice in Wonderland",
+      "quantity": 5,
+      "inventory": 1,
+      "description": "Follow Alice down the rabbit hole into a whimsical realm where the absurd becomes ordinary. Lewis Carroll's 'Alice in Wonderland' invites you on a surreal journey where curiosity reigns, and the line between reality and fantasy blurs."
+    }
+  ]
+}
