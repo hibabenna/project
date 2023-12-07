@@ -1,11 +1,11 @@
 {
   "story" : [
   {
-  "id" : "1",
+  "id" : 1,
   "description" : "hi"
   },
   {
-  "id" : "2",
+  "id" : 2,
   "description" : "hi"
   }
   ]
