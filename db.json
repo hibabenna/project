@@ -2,7 +2,7 @@
   "variants": [
     {
       "id": 2001,
-      "image": "@/assets/images/cii.jpg",
+      "image": require("../assets/images/cii.jpg"),
       "quantity": 50,
       "product": "Cinderella",
       "href": "/cinderellaStory",
